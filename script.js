@@ -2,7 +2,6 @@ const myusername = document.getElementById("username");
 const mypassword = document.getElementById("password");
 const mybutton = document.getElementById("mybutton");
 // Add a click event listener to the button
-console.log("qqq")
 document.addEventListener("DOMContentLoaded", function () {
     const button = document.getElementById("mybutton");
   
